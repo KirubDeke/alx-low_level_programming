@@ -1,7 +1,5 @@
 #include "math.h"
 #include <stdio.h>
-#ifndef MAIN_H
-#define MAIN_H
 
 /**
  * print_rev - a function that takes a pointer to an int as parameter and
@@ -19,7 +17,7 @@ void print_rev(char *s)
 	i--;
 	while (i >= 0)
 	{
-		_putchar(s[i]);
+		putchar(s[i]);
 		i--;
 	}
 	_putchar('\n');
