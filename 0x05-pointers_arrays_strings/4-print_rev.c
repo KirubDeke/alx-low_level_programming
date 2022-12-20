@@ -1,4 +1,5 @@
 #include "math.h"
+#include <stdio.h>
 
 /**
  * print_rev - a function that takes a pointer to an int as parameter and
