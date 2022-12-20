@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strlen - a function that returns the length of a string.
+ * _strlen - a function that takes a pointer to an int as parameter and updates the value it points to to 98
  * @s: chain of character
  * return: 1 or 0
  */
