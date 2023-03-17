@@ -1,10 +1,10 @@
 #include<stdio.h>
 /**
  * main - Function
- * Return: Always 0
+ * Return: Always 0(sucess)
  */
 int main(void)
 {
-	puts("\with proper grammar, but the outcome is a piece of art,);
-	Return (0);
+	printf("with proper grammar, but the outcome is a piece of art,\n");
+	return (0);
 }
