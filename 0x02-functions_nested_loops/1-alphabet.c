@@ -2,6 +2,7 @@
 
 /**
  * print_alphabet - prints the english alphabet from a-z.
+ *@c: a constant character
  * Return: Nothing.
  */
 
