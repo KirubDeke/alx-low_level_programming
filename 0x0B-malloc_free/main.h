@@ -1,5 +1,4 @@
-#ifndef HEADER_FILE
-#define HEADER_FILE
+
 #include <stdio.h>
 #include <stdlib.h>
 void free_grid(int **grid, int height);
@@ -8,5 +7,4 @@ char *_strdup(char *str);
 int _putchar(char c);
 char *create_array(unsigned int size, char c);
 int **alloc_grid(int width, int height);
-char *argstostr(int ac, char **av);  
-#endif
+char *argstostr(int ac, char **av); 
